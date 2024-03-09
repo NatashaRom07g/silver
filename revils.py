@@ -1,2 +1,2 @@
 #'kol'
-print('kokoko')
+print('kokokolo')
