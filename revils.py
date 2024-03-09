@@ -1,1 +1,2 @@
 #'kol'
+print('kokoko')
