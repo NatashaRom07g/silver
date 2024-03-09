@@ -1,2 +1,1 @@
 #'kol'
-print('silversilver')
